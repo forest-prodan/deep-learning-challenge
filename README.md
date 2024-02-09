@@ -16,6 +16,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
     - I used three hidden layers, one with 10 neurons, 15 neurons, and 20 neurons, all with the "relu" activation function. I wanted to double the number of neurons from the first hidden layer. I also added a fourth "sigmoid" layer with 1 neuron. 
 - Were you able to achieve the target model performance?
     - Unfortunately the model fell short of 75% performance, only reaching 73.6% with optimization efforts.
+    ![alt text](image.png)
 - What steps did you take in your attempts to increase model performance?
     - Increased the number of bins for the values we sorted during data preprocessing.
     - Created an addition hidden layer and increased the number of neurons in each layer.
