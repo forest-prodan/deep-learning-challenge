@@ -9,6 +9,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
     - The features for this model are the remaining data columns once "IS_SUCCESSFUL" has been removed from the data. 
 - What variables should be removed from the input data because they are neither targets nor features?
     - Both the "NAME" and "EIN" columns have been removed from the input data, as the range of unique values prevents efficient binning of the values.
+    ![alt text](image-1.png)
 
 
 ### Compiling, Training and Evaluation
