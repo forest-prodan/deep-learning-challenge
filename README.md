@@ -22,7 +22,7 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
     - Increased number of epochs when training the model.
 
 ## Summary 
-
+Overall, the model unperformed the target accuracy in predicting successful outcomes from the Alphabet Soup Charity dataset. Due to the complexity of the data, I would recommend the development of a random forest model. This model will be more interpretable with less processing behind the scenes. A random forest model can also handle categorical features, meaning less preprocessing and less resource usage. 
 
 
 
